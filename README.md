@@ -1,12 +1,10 @@
-# 🐧 Penguin Game
-
-A terminal-based Penguin Game written in C.
+# Penguin Game
 
 This project was developed as part of a university programming course to practice modular programming, dynamic memory management, and multi-file project architecture in C.
 
 ---
 
-## 🎮 Features
+## Features
 
 - Turn-based penguin board game
 - Multiple players support
@@ -16,7 +14,7 @@ This project was developed as part of a university programming course to practic
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - C Programming Language
 - GCC / Clang
@@ -24,7 +22,7 @@ This project was developed as part of a university programming course to practic
 
 ---
 
-## 🚀 How to Compile & Run
+## How to Compile & Run
 
 Using gcc:
 
@@ -35,7 +33,7 @@ gcc main.c board.c game.c players.c -o Penguin-Game
 
 ---
 
-## 📚 Learning Goals
+## Learning Goals
 
 This project focuses on:
 
@@ -46,7 +44,7 @@ This project focuses on:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Fuad AKPINAR**  
 Computer Science Student
