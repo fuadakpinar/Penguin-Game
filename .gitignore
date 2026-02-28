@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Compiled files
+*.out
+*.o
+*.exe
+
+# Build folders
+build/
+bin/
+
+# VSCode
+.vscode/
+
+# Temporary files
+*.log
+
+# Runtime Files
+savegame.txt
