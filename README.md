@@ -48,5 +48,5 @@ This project focuses on:
 
 ## 👨‍💻 Author
 
-**Fuad Akpinar**  
+**Fuad AKPINAR**  
 Computer Science Student
